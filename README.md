@@ -83,5 +83,6 @@
     font-family: sans-serif;
     font-weight: bold;
   }
+  </style>
   
 </html>
